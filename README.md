@@ -4,7 +4,7 @@
 1. Intro
 2. Install Tools
 3. Create React App
-4. Create Git Repositoryn
+4. Create Git Repository
 5. List Products
     1. create products array
     2. add product images
@@ -32,4 +32,8 @@
     2. npm install axios 
     3. use state hook 
     5. use reducer hook
+9. Manage State by Reducer Hook
+    1. define reducer
+    2. update fetch data
+    3. get state from useReducer
 
