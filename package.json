@@ -10,7 +10,7 @@
   },
   "author": "",
   "license": "ISC",
-  "engines:" {
+  "engines": {
     "node": "v19.8.1"
   }
 }
